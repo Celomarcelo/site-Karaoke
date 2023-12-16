@@ -23,18 +23,39 @@ body {
 /* header style */
 header {
     background-color: white;
-    background-image: ;
+    background-image: url('') ;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
 }
+header a {
+    text-decoration: none;
+    color: inherit;
+
+}
 #logo {
     font-family: 'Pacifico', sans-serif;
 }
 #sub-logo {
     font-family: 'Rubik Doodle Shadow', sans-serif;
+}
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style: none;
+    border-bottom: 2px  solid;
+}
+nav {
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+
 }
 
 /* main style */
