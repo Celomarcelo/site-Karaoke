@@ -23,7 +23,7 @@ body {
 /* header style */
 header {
     background-color: white;
-    background-image: url('') ;
+    background-image: url("karaoke-project-main\site-Karaoke\assets\images\karaokê.jpg") ;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
