@@ -1,0 +1,43 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Doodle+Shadow&display=swap');
+
+/* asterisk selector override default styles */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* general style */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* generic style */
+    color: #3a3a3a;
+    font-family:'Times New Roman', Times, serif
+}
+
+
+/* header style */
+header {
+    background-color: wheat;
+}
+#logo {
+    font-family: 'Pacifico', sans-serif;
+}
+#sub-logo {
+    font-family: 'Rubik Doodle Shadow', sans-serif;
+}
+
+/* main style */
+main {
+    background-color: wheat;
+    flex: 1 0 auto;
+}
+
+/* footer style */
+footer {
+    background-color: white;
+}
