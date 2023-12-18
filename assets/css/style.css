@@ -22,8 +22,11 @@ body {
 
 /* header style */
 header {
-    background-color: white;
-    background-image: url("assets\images\karaokê.jpg") ;
+    background-image: url("../images/micro.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20%;
+    background-color: black;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -45,9 +48,11 @@ h1 {
 }
 #logo {
     font-family: 'Pacifico', sans-serif;
+    color: white;
 }
 #sub-logo {
     font-family: 'Rubik Doodle Shadow', sans-serif;
+    color: white;
 }
 #menu {
     font-size: 110%;
@@ -63,8 +68,9 @@ h1 {
     border-bottom: 1px solid #3a3a3a;
 }
 nav {
+    color: white;
     position: absolute;
-    background-color: white;
+    background-color: black;
     width: 100%;
     left: 0;
     padding: 0 1rem;
