@@ -16,7 +16,8 @@ body {
     flex-direction: column;
     /* generic style */
     color: #3a3a3a;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+    background-color: bisque;
 }
 
 
@@ -91,9 +92,15 @@ nav {
 
 /* main style */
 main {
-    background-color: wheat;
+    background-color: whitesmoke;
     flex: 1 0 auto;
-    margin-top: 47px;
+    margin-top: 85px;
+    color: black;
+}
+#main {
+    background-color: white;
+    position: absolute;
+    margin-top: 60px;
 }
 
 /* footer style */
@@ -139,7 +146,11 @@ main {
     }
     main {
         margin-top: 79px;
+        color:black
     }
+}
+footer {
+    opacity: 0.9;
 }
 /* large devices */
 @media screen and (min-width: 992px) {
