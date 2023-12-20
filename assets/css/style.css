@@ -104,9 +104,12 @@ main {
     position: absolute;
     margin-top: 60px;
 }
-section {
+main > section {
     padding: 10px;
+    background-color: rgb(156, 163, 173);
+
 }
+
 
 /* footer style */
 #social-networks {
