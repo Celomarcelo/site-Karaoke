@@ -94,13 +94,17 @@ nav {
 main {
     background-color: whitesmoke;
     flex: 1 0 auto;
-    margin-top: 85px;
+    margin-top: 47px;
+    padding-top: 47px;
     color: black;
 }
 #main {
     background-color: white;
     position: absolute;
     margin-top: 60px;
+}
+section {
+    padding: 10px;
 }
 
 /* footer style */
