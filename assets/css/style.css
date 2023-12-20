@@ -104,10 +104,12 @@ main {
     position: absolute;
     margin-top: 60px;
 }
-main > section {
+#first-page > section {
     padding: 10px;
     background-color: rgb(156, 163, 173);
-
+}
+#schedule > div {
+    color:aliceblue
 }
 #rock {
     background-image: url("../images/rock.jpg");
@@ -116,25 +118,30 @@ main > section {
     background-size: cover;
     display: flex;
     flex-wrap: wrap;
-
 }
 #samba {
     background-image: url("../images/samba.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
 }
 #party {
     background-image: url("../images/party.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
 }
 #pop {
     background-image: url("../images/pop.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
