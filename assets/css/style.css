@@ -109,6 +109,33 @@ main > section {
     background-color: rgb(156, 163, 173);
 
 }
+#rock {
+    background-image: url("../images/rock.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#samba {
+    background-image: url("../images/samba.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#party {
+    background-image: url("../images/party.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#pop {
+    background-image: url("../images/pop.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 
 /* footer style */
