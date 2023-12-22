@@ -111,18 +111,14 @@ nav {
     text-align: center;
 }    
 #schedule > h2 {
-    margin-top: 20%;
     color:black;
     font-size: 280%;
-    text-align: center;
 }
 #schedule > div {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     display:inline-block;
-    flex-wrap: wrap;
-    margin: 1vw;
 }
 #schedule > div > div {
     height: 50vh;
