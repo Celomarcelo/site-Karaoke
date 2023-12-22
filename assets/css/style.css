@@ -118,10 +118,8 @@ nav {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    display:inline-block;
 }
 #schedule > div > div {
-    height: 50vh;
     background-color: rgba(0, 0, 0, .6);
     text-align: center;
 }
@@ -204,10 +202,5 @@ border-bottom: 1px solid #3a3a3a;
     #second-page > section {
         font-size: 1.5rem;
         margin: 10%;
-    }
-    #second-page > section > div {
-        display: flex;
-        margin: 20px;
-        padding: 40px;
-    }      
+    }    
 }
