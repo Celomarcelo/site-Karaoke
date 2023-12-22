@@ -123,7 +123,7 @@ nav {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    display: inline-block;
+    display:inline-block;
     flex-wrap: wrap;
     margin: 1vw;
 
@@ -196,11 +196,11 @@ footer {
     #menu a:hover {
 border-bottom: 1px solid #3a3a3a;
     }
-    main > section {
+    #first-page > section {
         font-size: 1.5rem;
         margin: 10%;
     }
-    main > section > div {
+    #first-page > section > div {
         margin: 20px;
         padding: 40px;
     }  
