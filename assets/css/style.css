@@ -91,7 +91,7 @@ nav {
 
 
 /* main style */
-#first-page {
+.first-page {
     background-color: whitesmoke;
     flex: 1 0 auto;
     margin-top: 47px;
@@ -99,7 +99,7 @@ nav {
     color: black;
     text-align: center;
 }
-#first-page > section {
+.first-page > section {
     padding: 10px;
     background-color: rgb(156, 163, 173);
 }
@@ -183,7 +183,7 @@ nav {
         line-height: 75px;
         margin: 0 0.5rem;
     }
-    #first-page {
+    .first-page {
         margin-top: 79px;
         color:black
     }
@@ -196,11 +196,11 @@ footer {
     #menu a:hover {
 border-bottom: 1px solid #3a3a3a;
     }
-    #first-page > section {
+    .first-page > section {
         font-size: 1.5rem;
         margin: 10%;
     }
-    #first-page > section > div {
+    .first-page > section > div {
         margin: 20px;
         padding: 40px;
     }  
