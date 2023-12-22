@@ -135,6 +135,9 @@ nav {
 #pop {
     background-image: url("../images/pop.jpg");
 }
+#thanks {
+    font-size: 300%;
+}
 
 
 /* footer style */
