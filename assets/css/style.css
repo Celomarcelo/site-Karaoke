@@ -103,15 +103,13 @@ nav {
     background-color: rgb(156, 163, 173);
 }
 #description {
-    background-image: url(../images/karaokê.jpg);
+    background-color: rgb(237, 85, 88);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
     padding: 0;
     margin: 0;
-    opacity: .5;
-
 }
 #description > div > h2 {
     font-size: 220%;
