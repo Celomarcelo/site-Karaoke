@@ -1,5 +1,5 @@
 # Sing Karaokê
-![sing-karaoke](../site-Karaoke/assets/images/sing%20karaoke.png)
+![sing-karaoke](assets/images/sing%20karaoke.png)
 <hr>
 Hello,
 This website was developed as a first HTML and CSS project for the Diploma in Full Stack Software Development course by Code Institute.
@@ -8,7 +8,7 @@ This website was developed as a first HTML and CSS project for the Diploma in Fu
 
 With a simple and intuitive layout with navigation menu with Home, Schedule and Sign Up pages. 
 It was designed to have a responsive design for all types of devices.
-![responsive-design](../site-Karaoke/assets/images/screendevices.png)
+![responsive-design](assets/images/screendevices.png)
 
 ## Technologies used:
  
@@ -21,6 +21,6 @@ python3 -m http.server
 ```
 A button should appear to click: Open Preview or Open Browser.
 ## Author
-<img  style="width:100px" src="../site-Karaoke/assets/images/me.jpeg">
+<img  style="width:100px" src="assets/images/me.jpeg">
 
 [Linkedin](https://www.linkedin.com/in/marcelo-tavares-43a46b228/)
