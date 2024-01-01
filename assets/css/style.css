@@ -131,7 +131,7 @@ nav {
 #location {
     height: fit-content;
 }
-/* second page style */
+/* schedule page style */
 #second-page {
     color:white;
     flex: 1 0 auto;
@@ -151,6 +151,8 @@ nav {
 #schedule > div > div {
     background-color: rgba(0, 0, 0, .6);
     text-align: center;
+    padding: 10px;
+    margin: 10px;
 }
 #rock {
     background-image: url("../images/rock.jpg");
@@ -164,7 +166,7 @@ nav {
 #pop {
     background-image: url("../images/pop.jpg");
 }
-/*third page style*/
+/*signup page style*/
 .third-page {
     margin-top: 10%;
     height: 100vh;
@@ -176,8 +178,16 @@ nav {
     background-color: rgb(156, 163, 173);
     color:black;
 }
+.input {
+    border-radius: 4px;
+}
+/*thanks page style*/
 #thanks {
     font-size: 300%;
+    text-align: center;
+    margin: 10%;
+    padding: 10%;
+    background-color: rgb(156, 163, 173);
 }
 
 
