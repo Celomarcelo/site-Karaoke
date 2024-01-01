@@ -165,7 +165,17 @@ nav {
     background-image: url("../images/pop.jpg");
 }
 /*third page style*/
-
+.third-page {
+    margin-top: 10%;
+    height: 100vh;
+    text-align: center;
+}
+#signup {
+    margin: 10%;
+    padding: 10%;
+    background-color: rgb(156, 163, 173);
+    color:black;
+}
 #thanks {
     font-size: 300%;
 }
