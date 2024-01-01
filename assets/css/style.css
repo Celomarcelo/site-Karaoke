@@ -94,9 +94,12 @@ nav {
 #hero {
     height: 600px;
     width: 100%;
-    background-image:url(/site-Karaoke/assets/images/karaoke2.jpg);
+    background-image: url(../images/karaoke2.jpg);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
+    margin: 0;
+    position: relative;
 }
 .first-page {
     flex: 1 0 auto;
@@ -108,12 +111,18 @@ nav {
     background-color: rgb(156, 163, 173);
 }
 #description {
+    height: 200px;
+    position: absolute;
+    bottom: 2px;
+    text-align: center;
     background-color: rgb(237, 85, 88);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    margin-top: 15%;
+    padding: 40px;
+    border-radius: 4px;
+    opacity: .9;
 }
 #description > div > h2 {
     font-size: 220%;
