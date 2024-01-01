@@ -91,6 +91,11 @@ nav {
 
 
 /* main style */
+#hero {
+    height: 600px;
+    width: 98%;
+    background-color: aqua;
+}
 .first-page {
     flex: 1 0 auto;
     color: black;
@@ -112,6 +117,9 @@ nav {
     font-size: 220%;
     font-style: italic;
     padding: 20px;
+}
+#location {
+    height: fit-content;
 }
 /* second page style */
 #second-page {
