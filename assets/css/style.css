@@ -151,6 +151,7 @@ nav {
     background-color: rgba(0, 0, 0, .6);
     text-align: center;
     padding: 10px;
+    margin: 10px;
 }
 #rock {
     background-image: url("../images/rock.jpg");
