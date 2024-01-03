@@ -1,6 +1,10 @@
 # Sing Karaokê
 ![sing-karaoke](assets/images/sing%20karaoke.png)
 
+- Github Pages https://celomarcelo.github.io/site-Karaoke/
+
+- Github-Repository https://github.com/Celomarcelo/site-Karaoke
+
 The Sing Karaoke website was created with the aim of being a website for people who like to sing in an amateur way, who like to enjoy their free moments with friends or family, who are looking for alternative entertainment.
 
 ![Responsice Mockup](assets/images/all-devices-black.png)
@@ -56,10 +60,20 @@ The Sing Karaoke website was created with the aim of being a website for people 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]()
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcelomarcelo.github.io%2Fsite-Karaoke%2Findex.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]()
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcelomarcelo.github.io%2Fsite-Karaoke%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
 
+### Chek List
+-A feature checklist was created to ensure all testing.
+
+### Lighthouse tests were carried out on all pages to ensure performance
+- Home page
+![Home](/site-Karaoke/assets/images/lighthose%20index%20page.png)
+- Schedule Page
+![Schedule](/site-Karaoke/assets/images/lighthouse%20schedue%20page.png)
+- Sign Up page
+![sign](/site-Karaoke/assets/images/lighthouse%20sign%20up%20page.png)
 
 ## Deployment
 
@@ -73,16 +87,12 @@ The live link can be found here - https://celomarcelo.github.io/site-Karaoke/
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
-
+- 
 - The text content was extracted from the following pages:
-       - Canto do Batuque escola de música 
-       - Escola Nosso Canto
-       - Site Puc Sp
+  - Canto do Batuque escola de música 
+  - Escola Nosso Canto
+  - Site Puc Sp
 - The code for implementing the iframe was extracted from Google maps
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 ### Media
