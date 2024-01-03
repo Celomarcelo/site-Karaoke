@@ -176,6 +176,7 @@ nav {
     padding: 10%;
     background-color: rgb(156, 163, 173);
     color:black;
+    border-radius: 4px;
 }
 .input {
     border-radius: 4px;
