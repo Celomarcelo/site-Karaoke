@@ -60,11 +60,30 @@ The Sing Karaoke website was created with the aim of being a website for people 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcelomarcelo.github.io%2Fsite-Karaoke%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcelomarcelo.github.io%2Fsite-Karaoke%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
+   - Home Page
 
-### Chek List
+   ![validator](/assets/images/ww3index.png)
+   - Schedule Page
+
+   ![validator](/assets/images/ww3schedule.png)
+   - Sign Up
+
+   ![validator](/assets/images/ww3signup.png)
+   
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org)
+     - Home Page
+
+   ![cssvalidator](/assets/images/cssindex.png)
+   - Schedule Page
+
+   ![cssvalidator](/assets/images/cssschedule.png)
+   - Sign Up
+
+   ![cssvalidator](/assets/images/csssignup.png)
+
+### Check List
 - A feature checklist was created to ensure all testing.
 ![checklist](assets/images/checlist.jpg)
 
@@ -92,7 +111,7 @@ The live link can be found here - https://celomarcelo.github.io/site-Karaoke/
 ## Credits 
 
 ### Content 
-- 
+ 
 - The text content was extracted from the following pages:
   - Canto do Batuque escola de música 
   - Escola Nosso Canto
