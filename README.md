@@ -1,9 +1,9 @@
 # Sing Karaokê
 ![sing-karaoke](assets/images/sing%20karaoke.png)
 
-- Github Pages https://celomarcelo.github.io/site-Karaoke/
+[Github-Pages](https://celomarcelo.github.io/site-Karaoke/)
 
-- Github-Repository https://github.com/Celomarcelo/site-Karaoke
+[Github-Repository](https://github.com/Celomarcelo/site-Karaoke)
 
 The Sing Karaoke website was created with the aim of being a website for people who like to sing in an amateur way, who like to enjoy their free moments with friends or family, who are looking for alternative entertainment.
 
@@ -65,7 +65,7 @@ The Sing Karaoke website was created with the aim of being a website for people 
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcelomarcelo.github.io%2Fsite-Karaoke%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
 
 ### Chek List
--A feature checklist was created to ensure all testing.
+- A feature checklist was created to ensure all testing.
 
 ### Lighthouse tests were carried out on all pages to ensure performance
 - Home page
