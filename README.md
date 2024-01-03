@@ -17,19 +17,19 @@ The Sing Karaoke website was created with the aim of being a website for people 
 
  - Featured on all three pages, the full responsive navigation bar includes links to the home page, schedule page, and registration and is identical on each page to allow for easy navigation.
   - This section will allow the user to easily intuitively navigate from one page to another on all devices without having to return to the previous page via the 'back' button.
-![Nav Bar](/site-Karaoke/assets/images/navigation%20menu%20sing%20karaoke.png)
+![Nav Bar](assets/images/navigation%20menu%20sing%20karaoke.png)
 - __The landing page image__
 
   - The landing includes a photograph with text overlay and a brief description about the website.
 
-![Landing Page](/site-Karaoke/assets/images/heroimage.png)
+![Landing Page](assets/images/heroimage.png)
 
 - __Information section__
 
   - The information section gives the user a little knowledge about the benefits of singing on the body.
   - It also has an address and a map to visualize the location
 
-![Information section](/site-Karaoke/assets/images/information%20section.png)
+![Information section](assets/images/information%20section.png)
 
 
 - __The Footer__ 
@@ -37,19 +37,19 @@ The Sing Karaoke website was created with the aim of being a website for people 
   - The footer section includes links to the relevant social media sites for Sing Karaokê. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](/site-Karaoke/assets/images/footer.png)
+![Footer](assets/images/footer.png)
 
 - __Schedule Page__
 
   - The agenda section provides a preview of events throughout the month, with a description of times and days.
   - It has illustrative images related to the event.
-![Schedule](/site-Karaoke/assets/images/schedule.png)
+![Schedule](assets/images/schedule.png)
 
 - __The Sign Up Page__
 
   - This section allows the user to register to stay up to date with events and take advantage of loyalty benefits such as points for euros spent at the establishment
 
-![Sign Up](/site-Karaoke/assets/images/sign%20up.png)
+![Sign Up](assets/images/sign%20up.png)
 
 ### Features Left to Implement
 
@@ -66,15 +66,15 @@ The Sing Karaoke website was created with the aim of being a website for people 
 
 ### Chek List
 - A feature checklist was created to ensure all testing.
-![checklist](/site-Karaoke/assets/images/checlist.jpg)
+![checklist](assets/images/checlist.jpg)
 
 ### Lighthouse tests were carried out on all pages to ensure performance
 - Home page
-![Home](/site-Karaoke/assets/images/lighthose%20index%20page.png)
+![Home](assets/images/lighthose%20index%20page.png)
 - Schedule Page
-![Schedule](/site-Karaoke/assets/images/lighthouse%20schedue%20page.png)
+![Schedule](assets/images/lighthouse%20schedue%20page.png)
 - Sign Up page
-![sign](/site-Karaoke/assets/images/lighthouse%20sign%20up%20page.png)
+![sign](assets/images/lighthouse%20sign%20up%20page.png)
 
 ## Deployment
 
