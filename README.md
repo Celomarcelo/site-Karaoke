@@ -66,6 +66,7 @@ The Sing Karaoke website was created with the aim of being a website for people 
 
 ### Chek List
 - A feature checklist was created to ensure all testing.
+![checklist](/site-Karaoke/assets/images/checlist.jpg)
 
 ### Lighthouse tests were carried out on all pages to ensure performance
 - Home page
