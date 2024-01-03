@@ -132,22 +132,22 @@ nav {
     height: fit-content;
 }
 /* schedule page style */
-#second-page {
+.second-page {
     color:white;
     flex: 1 0 auto;
     margin-top: 47px;
     text-align: center;
 }    
-#schedule > h2 {
+.schedule > h2 {
     color:black;
     font-size: 280%;
 }
-#schedule > div {
+.schedule > div {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-#schedule > div > div {
+.schedule > div > div {
     background-color: rgba(0, 0, 0, .6);
     text-align: center;
     padding: 10px;
