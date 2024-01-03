@@ -69,14 +69,15 @@ The Sing Karaoke website was created with the aim of being a website for people 
 ![checklist](assets/images/checlist.jpg)
 
 ### Lighthouse tests were carried out on all pages to ensure performance
+- Home Page
+
 ![Home](assets/images/lighthose%20index%20page.png)
-- Home Page 
+- Schedule Page 
 
 ![Schedule](assets/images/lighthouse%20schedue%20page.png)
-- Schedule Up page 
+- Sign Up Up page 
 
 ![sign](assets/images/lighthouse%20sign%20up%20page.png)
-- Sign Up page
 
 ## Deployment
 
