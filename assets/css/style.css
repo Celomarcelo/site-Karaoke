@@ -20,7 +20,6 @@ body {
     background-color: whitesmoke;
 }
 
-
 /* header style */
 header {
     background-repeat: no-repeat;
@@ -39,7 +38,6 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-
 }
 h1 {
     font-family: 'Oswald', sans-serif;
@@ -63,7 +61,6 @@ h1 {
 #menu > li {
     margin-bottom: 1em;
 }
-
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -87,7 +84,6 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-
 
 /* main style */
 #hero {
@@ -190,7 +186,6 @@ nav {
     background-color: rgb(156, 163, 173);
     border-radius: 4px;
 }
-
 
 /* footer style */
 #social-networks {
